@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head><title>exp-13</title></head>
+<body>
+<center><h1>MY TRAVEL BLOG</h1></center>
+<nav>
+<center><a href="#home">Home</a> |
+
+<a href="#destination">Destination</a> |
+
+<a href="#gallery">Gallery</a> |
+
+<a href="#contact">Contact</a></center>
+</nav>
+<h2>My Trip to the Mountains</h2>
+<p>Last summer, I traveled to the beautiful Rocky Mountains. <br>The fresh air, stunning views, and peaceful trails made it an unforgettable adventure...</p>
+
+<p>We hiked, camped under the stars, and even saw a bear from a safe distance!<br> I highly recommend visiting if you love nature.</p>
+<h3>Travel Tips</h3>
+<ul type="square">
+
+    <li>Pack light but smart</li>
+    <li>Bring a reusable water bottle</li>
+    <li>Always have a map or offline GPS</li>
+    <li>Learn basic phrases in the local language</li>
+</ul>
+<center><footer>
+<p>Contact:simhadrigeethika@gmail.com</p>
+<p>&copy;2025 geethikasimhadri.All rights reserved.</p>
+</footer></center>
+</body>
+</html>
